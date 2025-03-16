@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\Telefono.class
+com\example\demo\repository\PersonaRepository.class
+com\example\demo\service\PersonaService.class
+com\example\demo\entity\Progetto.class
+com\example\demo\dto\PersonaDTO.class
+com\example\demo\entity\Persona.class
+com\example\demo\controller\PersonaController.class
+com\example\demo\entity\Indirizzo.class
